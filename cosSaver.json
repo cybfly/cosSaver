@@ -1,0 +1,10 @@
+{
+	"action":"ALL",
+	"secretID":"YOUR_ID",
+	"sercretKey":"YOUR_KEY",
+	"bucketURL":"https://XXX.cos.ap-guangzhou.myqcloud.com",
+	"defaultUploadTime":"1987-06-21 01:02:03",
+	"sourceDir":"D:\\Photos",
+	"initKeyDir":"",
+	"skippedDir":["/2015","/2018","/2017","/APRIL"]
+}
